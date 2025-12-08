@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Senorita
+Comment=Senorita Music Player
+Exec=/usr/bin/python3 /opt/ytmplayer/main.py
+Icon=utilities-terminal
+Type=Application
+Categories=AudioVideo;Player;
+Terminal=false
