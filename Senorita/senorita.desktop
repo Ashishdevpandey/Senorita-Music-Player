@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Señorita
+Comment=YouTube Music Player
+Exec=/home/ashish/Desktop/Senorita/venv/bin/python /home/ashish/Desktop/Senorita/ytmplayer/main.py
+Icon=/home/ashish/Desktop/Senorita/ytmplayer/ui/icons/senorita.png
+Type=Application
+Categories=AudioVideo;Player;
+Terminal=false
+StartupWMClass=Señorita
