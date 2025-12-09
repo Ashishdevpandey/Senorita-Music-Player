@@ -23,8 +23,8 @@ We provide an automated installation script that sets up the virtual environment
 
 1.  **Clone the repository** (if you haven't already):
     ```bash
-    git clone https://github.com/Ashishdevpandey/Se-orita-Music-Player.git
-    cd Seorita-Music-Player
+    git clone https://github.com/Ashishdevpandey/Senorita-Music-Player.git
+    cd Senorita-Music-Player
     ```
 
 2.  **Run the installer**:
